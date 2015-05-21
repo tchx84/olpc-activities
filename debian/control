@@ -1,0 +1,35 @@
+Source: olpc-activities
+Section: misc
+Priority: optional
+Maintainer: James Cameron <quozl@laptop.org>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.2
+
+Package: olpc-activities
+Architecture: all
+Depends: sucrose-0.104,
+ ,sugar-browse-activity
+ ,sugar-terminal-activity
+Recommends: sugar-abacus-activity
+ ,sugar-calculate-activity
+ ,sugar-chat-activity
+ ,sugar-clock-activity
+ ,sugar-develop-activity
+ ,sugar-etoys-activity
+ ,sugar-finance-activity
+ ,sugar-fototoon-activity
+ ,sugar-fractionbounce-activity
+ ,sugar-help-activity
+ ,sugar-image-viewer-activity
+ ,sugar-implode-activity
+ ,sugar-jukebox-activity
+ ,sugar-labyrinth-activity
+ ,sugar-letters-activity
+ ,sugar-log-activity
+ ,sugar-maze-activity
+ ,sugar-measure-activity
+ ,sugar-portfolio-activity
+ ,sugar-stopwatch-activity
+ ,sugar-write-activity
+Description: Sugar Activities for OLPC OS
+ A sample set of activities based on previous releases.

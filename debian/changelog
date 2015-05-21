@@ -1,0 +1,38 @@
+olpc-activities (1.0-6~quozl1) trusty; urgency=medium
+
+  * add new activities
+
+ -- James Cameron <quozl@laptop.org>  Thu, 21 May 2015 12:32:22 +1000
+
+olpc-activities (1.0-5~olpc1) trusty; urgency=medium
+
+  * add sugar-measure-activity sugar-stopwatch-activity sugar-write-
+    activity
+
+ -- James Cameron <quozl@laptop.org>  Sat, 25 Apr 2015 10:42:35 +1000
+
+olpc-activities (1.0-4~olpc1) trusty; urgency=medium
+
+  * add sugar-log-activity
+
+ -- James Cameron <quozl@laptop.org>  Thu, 23 Apr 2015 13:40:46 +1000
+
+olpc-activities (1.0-3~olpc1) trusty; urgency=medium
+
+  * remove sugar-turtleblocks-activity as it conflicts with sugar-
+    turtleart-activity, the former needs repackaging
+
+ -- James Cameron <quozl@laptop.org>  Thu, 23 Apr 2015 09:56:29 +1000
+
+olpc-activities (1.0-2~olpc1) trusty; urgency=medium
+
+  * add sugar-maze-activity
+
+ -- James Cameron <quozl@laptop.org>  Thu, 23 Apr 2015 09:34:30 +1000
+
+olpc-activities (1.0-1~olpc1) trusty; urgency=medium
+
+  * initial build
+
+ -- James Cameron <quozl@laptop.org>  Wed, 22 Apr 2015 14:07:31 +1000
+

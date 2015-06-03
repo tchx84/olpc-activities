@@ -12,13 +12,15 @@ Depends: sucrose-0.104,
  ,sugar-terminal-activity
 Recommends: sugar-abacus-activity
  ,sugar-calculate-activity
+ ,sugar-chart-activity
  ,sugar-chat-activity
  ,sugar-clock-activity
  ,sugar-develop-activity
- ,sugar-etoys-activity
+ ,sugar-distance-activity
  ,sugar-finance-activity
  ,sugar-fototoon-activity
  ,sugar-fractionbounce-activity
+ ,sugar-gears-activity
  ,sugar-help-activity
  ,sugar-image-viewer-activity
  ,sugar-implode-activity
@@ -28,6 +30,7 @@ Recommends: sugar-abacus-activity
  ,sugar-log-activity
  ,sugar-maze-activity
  ,sugar-measure-activity
+ ,sugar-memorize-activity
  ,sugar-portfolio-activity
  ,sugar-stopwatch-activity
  ,sugar-write-activity

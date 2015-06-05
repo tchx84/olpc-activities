@@ -1,3 +1,9 @@
+olpc-activities (1.0-8~quozl1) trusty; urgency=medium
+
+  * add record, read and speak
+
+ -- James Cameron <quozl@laptop.org>  Fri, 05 Jun 2015 14:15:26 +1000
+
 olpc-activities (1.0-7~quozl1) trusty; urgency=medium
 
   * add sugar-{chart,distance,gears,memorize}-activity

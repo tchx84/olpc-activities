@@ -31,11 +31,13 @@ Recommends: sugar-abacus-activity
  ,sugar-maze-activity
  ,sugar-measure-activity
  ,sugar-memorize-activity
+ ,sugar-moon-activity
  ,sugar-portfolio-activity
  ,sugar-read-activity
  ,sugar-record-activity
  ,sugar-speak-activity
  ,sugar-stopwatch-activity
+ ,sugar-story-activity
  ,sugar-write-activity
 Description: Sugar Activities for OLPC OS
  A sample set of activities based on previous releases.

@@ -1,3 +1,9 @@
+olpc-activities (1.0-10~quozl1) trusty; urgency=medium
+
+  * add paint
+
+ -- James Cameron <quozl@laptop.org>  Tue, 09 Jun 2015 09:57:03 +1000
+
 olpc-activities (1.0-9~quozl1) trusty; urgency=medium
 
   * add story and moon

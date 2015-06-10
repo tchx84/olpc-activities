@@ -1,3 +1,9 @@
+olpc-activities (1.0-11~quozl1) trusty; urgency=medium
+
+  * add physics, poll
+
+ -- James Cameron <quozl@laptop.org>  Wed, 10 Jun 2015 14:08:27 +1000
+
 olpc-activities (1.0-10~quozl1) trusty; urgency=medium
 
   * add paint

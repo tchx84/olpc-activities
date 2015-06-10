@@ -33,6 +33,8 @@ Recommends: sugar-abacus-activity
  ,sugar-memorize-activity
  ,sugar-moon-activity
  ,sugar-paint-activity
+ ,sugar-physics-activity
+ ,sugar-poll-activity
  ,sugar-portfolio-activity
  ,sugar-read-activity
  ,sugar-record-activity

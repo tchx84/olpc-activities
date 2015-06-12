@@ -21,6 +21,7 @@ Recommends: sugar-abacus-activity
  ,sugar-fototoon-activity
  ,sugar-fractionbounce-activity
  ,sugar-gears-activity
+ ,sugar-get-books-activity
  ,sugar-help-activity
  ,sugar-image-viewer-activity
  ,sugar-implode-activity
@@ -41,6 +42,7 @@ Recommends: sugar-abacus-activity
  ,sugar-speak-activity
  ,sugar-stopwatch-activity
  ,sugar-story-activity
+ ,sugar-words-activity
  ,sugar-write-activity
 Description: Sugar Activities for OLPC OS
  A sample set of activities based on previous releases.

@@ -1,3 +1,9 @@
+olpc-activities (1.0-13~quozl1) trusty; urgency=medium
+
+  * add music keyboard
+
+ -- james <quozl@laptop.org>  Thu, 25 Jun 2015 09:12:48 +1000
+
 olpc-activities (1.0-12~quozl1) trusty; urgency=medium
 
   * add get books, words

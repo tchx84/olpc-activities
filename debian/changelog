@@ -1,3 +1,9 @@
+olpc-activities (1.0-14~quozl1) trusty; urgency=medium
+
+  * rename image viewer
+
+ -- james <quozl@laptop.org>  Tue, 30 Jun 2015 12:23:56 +1000
+
 olpc-activities (1.0-13~quozl1) trusty; urgency=medium
 
   * add music keyboard

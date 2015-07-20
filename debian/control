@@ -35,16 +35,23 @@ Recommends: sugar-abacus-activity
  ,sugar-moon-activity
  ,sugar-music-keyboard-activity
  ,sugar-paint-activity
+ ,sugar-pippy-activity
  ,sugar-physics-activity
  ,sugar-poll-activity
  ,sugar-portfolio-activity
  ,sugar-read-activity
  ,sugar-record-activity
+ ,sugar-simple-en-wiki-activity
  ,sugar-speak-activity
  ,sugar-stopwatch-activity
  ,sugar-story-activity
  ,sugar-words-activity
  ,sugar-write-activity
+ ,art4apps
+ ,art4apps-images
+ ,art4apps-audio-en
+ ,art4apps-audio-fr
+ ,art4apps-audio-es
 Conflicts: sugar-image-viewer-activity
 Description: Sugar Activities for OLPC OS
  A sample set of activities based on previous releases.

@@ -7,7 +7,20 @@ Standards-Version: 3.9.2
 
 Package: olpc-activities
 Architecture: all
-Depends: sucrose-0.104,
+Depends: sucrose (>= 0.106.0)
+ ,python-jarabe (>= 0.106.0)
+ ,sugar-session (>= 0.106.0)
+ ,sugar-themes (>= 0.106.0)
+ ,sugar-icon-theme (>= 0.106.0)
+ ,gtk2-engines-sugar (>= 0.106.0)
+ ,python-carquinyol (>= 0.106.0)
+ ,python-sugar3 (>= 0.106.0)
+ ,libsugarext0 (>= 0.106.0)
+ ,libsugarext-data (>= 0.106.0)
+ ,gir1.2-sugarext-1.0 (>= 0.106.0)
+ ,python-sugar (>= 0.98.0)
+ ,python-sugar-toolkit (>= 0.98.1)
+ ,sugar-presence-service (>= 0.90.2)
  ,sugar-browse-activity
  ,sugar-terminal-activity
 Recommends: sugar-abacus-activity
